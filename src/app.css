@@ -1,0 +1,31 @@
+.tenis{
+    width: 350px;
+    height: 400px;
+
+}
+.titulo{
+    margin-top: 30px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.descricao{
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.preco{
+    font-weight: bolder;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 320px;
+}
+.conteiner{
+    width: 350px;
+    height: 400px;
+
+
+}
