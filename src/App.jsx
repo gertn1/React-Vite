@@ -15,13 +15,13 @@ function App() {
     
    <div className='conteiner'>
     <img className = "imagens" src={Foto1} />
-    <p className='descricao'> Tênis Nike Revolution 6<span>$35</span></p>
+    <p className='descricao'> Tênis Nike Revolution 6 <span>$35</span></p>
     <p>branco</p>
    </div>
 
    <div className='conteiner'>
     <img className = "imagens" src={Foto2} />
-    <p className='descricao'> Tênis Nike Air Max SYSTM <span>$35</span></p>
+    <p className='descricao'>Tênis Nike Air Max SYSTM<span>$35</span></p>
     <p>vermelho</p>
    </div>
    <div className='conteiner'>
